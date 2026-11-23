@@ -2,3 +2,4 @@
 !keep.log
 dist/
 .env*
+members.csv
